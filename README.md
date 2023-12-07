@@ -22,14 +22,12 @@
 ## Feedback
 
 If you have any feedback, please reach out to us at html12038@gmail.com
-
+https://github.com/htmlcoding12
 
 ## Authors
+@htmlcoding12
 
-- [@jaydipsinh13](https://www.github.com/jaydipsinh13)
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydipsinhsolanki/)
 
 
