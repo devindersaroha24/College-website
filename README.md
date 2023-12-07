@@ -25,7 +25,7 @@ If you have any feedback, please reach out to us at html12038@gmail.com
 
 
 ## Authors
-@devinder saroha
+@devindersaroha24 
 
 
 
