@@ -13,7 +13,6 @@
 
 
 
-https://jaydipsinh-collegewebsite.netlify.app
 ## Tech Stack
 
 **Client:** HTML, CSS, JAVASCRIPT
@@ -22,7 +21,7 @@ https://jaydipsinh-collegewebsite.netlify.app
 
 ## Feedback
 
-If you have any feedback, please reach out to us at jaydipsinhsolanki9297@gmail.com
+If you have any feedback, please reach out to us at html12038@gmail.com
 
 
 ## Authors
